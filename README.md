@@ -1,4 +1,4 @@
-# 🚀 Vihaan Agrawal — AI Engineer & ML Researcher Portfolio
+# Vihaan Agrawal — AI Engineer & ML Researcher Portfolio
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Site-vihaan--portfolio.vercel.app-orange?style=for-the-badge&logo=vercel)](https://vihaan-portfolio-rose.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-vihaaaaan17-181717?style=for-the-badge&logo=github)](https://github.com/vihaaaaan17)
@@ -9,7 +9,7 @@ A sleek, high-performance, single-page SaaS portfolio for **Vihaan Agrawal** —
 
 ---
 
-## 🌟 Highlights & Key Sections
+## Highlights & Key Sections
 
 * **Hero & Overview**: High-contrast display typography, IIT Patna '26 status, location, focus area, and quick CTA links.
 * **Experience**:
@@ -24,7 +24,7 @@ A sleek, high-performance, single-page SaaS portfolio for **Vihaan Agrawal** —
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 * **Frontend**: HTML5, Vanilla CSS, TailwindCSS Utility Classes.
 * **Typography**: Geist Sans, Geist Mono, Bricolage Grotesque.
@@ -33,7 +33,7 @@ A sleek, high-performance, single-page SaaS portfolio for **Vihaan Agrawal** —
 
 ---
 
-## ⚡ Local Development
+## Local Development
 
 To run the portfolio locally on your machine:
 
@@ -49,7 +49,7 @@ Open **`http://localhost:3000`** in your web browser.
 
 ---
 
-## 🚢 Continuous Deployment (Vercel)
+## Continuous Deployment (Vercel)
 
 This repository is linked to Vercel for automatic continuous deployment.
 
@@ -64,7 +64,7 @@ This repository is linked to Vercel for automatic continuous deployment.
 
 ---
 
-## 📬 Contact & Socials
+## Contact & Socials
 
 * **Email**: [agrvihaan177@gmail.com](mailto:agrvihaan177@gmail.com)
 * **GitHub**: [@vihaaaaan17](https://github.com/vihaaaaan17)
